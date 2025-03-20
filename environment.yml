@@ -1,0 +1,12 @@
+name: german_credit_classifier
+channels:
+  - defaults
+
+dependencies:
+  - python=12.3.7
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
